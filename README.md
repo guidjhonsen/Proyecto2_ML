@@ -32,7 +32,7 @@ Maestria en Ciencia de Datos 5v
 
 ...
 
-### Métodos Utilizados
+### **Métodos Utilizados**
 
 En el análisis de clasificación de tickets bancarios se utilizaron los siguientes métodos principales:
 
@@ -78,7 +78,7 @@ En el análisis de clasificación de tickets bancarios se utilizaron los siguien
     Validación cruzada: Evaluación robusta del rendimiento
 
 
-### Tecnologías
+### **Tecnologías**
 
 Tecnologías utilizadas en la solución de clasificación de tickets:
 
@@ -125,7 +125,7 @@ Tecnologías utilizadas en la solución de clasificación de tickets:
     Pandas DataFrame (manipulación de datos)
 
 
-## Descarga y Configuración
+## **Descarga y Configuración**
 
 ### Requisitos Previos
 
@@ -139,7 +139,7 @@ Se requiere que esté instalado previamente:
 ### Cómo Ejecutar
 
 Para su ejecución ingresar al siguiente enlace de google COLAB:
-
+    https://colab.research.google.com/drive/13uXeJWPsJPOciA10Rv06tARqFXYqOdhP?usp=sharing#scrollTo=DxYpSqI_6jYi 
 
 ## Declaración del Problema
 
